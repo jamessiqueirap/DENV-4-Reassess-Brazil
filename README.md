@@ -2,4 +2,4 @@
 
 This repository contains information related to the publication [insert publication reference].
 
-Including, in particular, the [scripts]() used to generate the graphs shown in Figure 4A and Figure 5.
+Including, in particular, the [scripts](/scripts/) used to generate the graphs shown in Figure 4A and Figure 5.
